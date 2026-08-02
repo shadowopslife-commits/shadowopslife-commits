@@ -85,9 +85,9 @@ Python • SQL • Git • GitHub • APIs • AI • Automation • Cloud Platf
 
 ## Contact
 
-📍 Brea, California
+📍 La Habra Heights, California
 
-📧 ronin@roningroupusa.com
+📧 patrick.estrada@hotmail.com
 
 Open to remote contract, consulting, and project-based opportunities.
 
