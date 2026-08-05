@@ -1,107 +1,163 @@
 # Patrick Estrada
 
-## Systems Architect | AI-Assisted Development | Workflow Automation | Mission-Critical Operations
+## Systems Architect | Operational Software Engineer | AI-Assisted Development
 
-I design and build scalable operational systems that solve complex business problems through automation, AI-assisted development, workflow engineering, and systems architecture.
+I design and engineer operational software systems that transform complex business processes into scalable, repeatable automation.
 
-My background spans mission-critical emergency communications, public safety technology, business operations, Python automation, AI implementation, and modular system design. I specialize in translating operational requirements into practical, reliable solutions that improve efficiency and support rapid execution.
+My work combines systems architecture, Python development, workflow engineering, data processing, and AI-assisted development to solve operational problems where reliability, visibility, and scalability matter.
+
+Rather than building software for its own sake, I engineer systems that reduce manual effort, improve operational consistency, and support better decision-making.
 
 ---
 
-## Core Competencies
+# Engineering Focus
 
 - Systems Architecture
-- AI-Assisted Development
-- Python Automation
-- Workflow Engineering
-- Dashboard Design
-- Database Architecture
-- Business Process Optimization
+- Operational Software Engineering
+- Python Development
+- Workflow Automation
+- Data Engineering
+- SQLite
 - Operational Analytics
-- Public Safety Technology
+- AI-Assisted Development
+- Process Optimization
 - Technical Documentation
 
 ---
 
-## Featured Projects
+# Flagship Projects
 
-🚑 **Mission-Critical Ambulance Deployment System**
-- Backend deployment rule engine
-- Dynamic ambulance deployment logic
-- CAD integration
-- County-wide operational coverage
+## ShadowOps Data Pipeline
 
-📊 **Operations Dashboard Framework**
-- Business reporting
+**Operational Data Engineering Platform**
+
+Large-scale Python automation platform for processing, normalizing, deduplicating, routing, validating, and analyzing operational datasets.
+
+**Highlights**
+
+- Manifest-driven processing
+- SQLite indexing
+- Deduplication engine
+- Workflow automation
 - Operational analytics
-- Performance dashboards
-- Decision support
+- High-volume data processing
 
-🤖 **AI Workflow Library**
-- AI-assisted automation
-- Business workflows
-- Prompt engineering
-- Operational optimization
+Repository
 
-🗄️ **Lead Database Platform**
-- Python utilities
-- Database management
-- Data automation
-- Workflow integration
-
-⚙️ **Business Systems Architecture**
-- CRM workflows
-- SOP development
-- Process engineering
-- Modular operational systems
+https://github.com/shadowopslife-commits/shadowops-data-pipeline
 
 ---
 
-## Current Focus
+## Python Forensics Toolkit
 
-- AI Software Development
-- Workflow Automation
-- SaaS Architecture
+**Operational Data Integrity Platform**
+
+Python forensic comparison framework designed to validate data integrity, compare operational datasets, identify redundancy, and generate repeatable investigative reports.
+
+**Highlights**
+
+- SQLite forensic indexing
+- Record fingerprinting
+- Data validation
+- Operational reporting
+- Redundancy analysis
+- Evidence-based workflows
+
+Repository
+
+https://github.com/shadowopslife-commits/python-forensics-toolkit
+
+---
+
+## Lead Database Automation
+
+**Operational Workflow Automation Platform**
+
+Collection of workflow automation modules for routing, validating, recovering, classifying, and organizing very large operational databases.
+
+**Highlights**
+
+- State routing
+- Geographic classification
+- ZIP validation
+- Recovery workflows
+- Operational analytics
+- Process automation
+
+Repository
+
+https://github.com/shadowopslife-commits/lead-database-automation
+
+---
+
+# Engineering Philosophy
+
+Every operational problem is ultimately a systems problem.
+
+My approach is to understand the workflow first, identify bottlenecks, engineer repeatable processes, and then build automation that improves reliability, scalability, and long-term maintainability.
+
+Python is one implementation tool.
+
+Systems thinking is the discipline.
+
+---
+
+# Technical Stack
+
+### Languages
+
 - Python
-- Operational Systems
-- Business Intelligence
+- SQL
+- Markdown
+
+### Data
+
+- SQLite
+- CSV
+- Large-scale data processing
+
+### Engineering
+
+- Workflow Automation
+- Systems Architecture
+- Operational Analytics
+- Technical Documentation
+- Process Optimization
+
+### AI
+
+- AI-Assisted Development
+- Prompt Engineering
+- Workflow Design
+- Automation Strategy
 
 ---
 
-## Technologies
+# Current Focus
 
-Python • SQL • Git • GitHub • APIs • AI • Automation • Cloud Platforms • Markdown
+Building operational software platforms that combine systems architecture, automation, AI-assisted development, and workflow engineering to solve complex business problems.
+
+Current areas of development include:
+
+- Operational Software Platforms
+- Workflow Automation
+- AI Engineering
+- Business Systems
+- Data Engineering
+- SaaS Architecture
 
 ---
 
-## Currently Building
-
-- Technical Portfolio
-- Modular SaaS Case Studies
-- AI Workflow Toolkit
-- Operations Dashboard Library
-
----
-
-## Contact
+# Connect
 
 📍 La Habra Heights, California
 
 📧 patrick.estrada@hotmail.com
 
-Open to remote contract, consulting, and project-based opportunities.
+🔗 LinkedIn
 
-<!--
-**shadowopslife-commits/shadowopslife-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://linkedin.com/in/patrickestradaops
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Open to consulting, contract, and project-based opportunities involving systems architecture, workflow automation, operational software, Python engineering, and AI-assisted development.
