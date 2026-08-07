@@ -2,162 +2,157 @@
 
 ## Systems Architect | Operational Software Engineer | AI-Assisted Development
 
-I design and engineer operational software systems that transform complex business processes into scalable, repeatable automation.
+I design operational software that turns complex, repetitive workflows into scalable, reliable systems.
 
-My work combines systems architecture, Python development, workflow engineering, data processing, and AI-assisted development to solve operational problems where reliability, visibility, and scalability matter.
-
-Rather than building software for its own sake, I engineer systems that reduce manual effort, improve operational consistency, and support better decision-making.
+My work combines systems architecture, Python engineering, data processing, workflow automation, and AI-assisted development to solve operational problems where reliability, visibility, and scalability matter.
 
 ---
 
-# Engineering Focus
+# Flagship Engineering Systems
 
-- Systems Architecture
-- Operational Software Engineering
-- Python Development
-- Workflow Automation
-- Data Engineering
-- SQLite
-- Operational Analytics
-- AI-Assisted Development
-- Process Optimization
-- Technical Documentation
+## 🔵 ShadowOps Data Pipeline
 
----
+### Operational Data Engineering Platform
 
-# Flagship Projects
+A modular Python platform engineered for large-scale data processing, normalization, deduplication, validation, routing, and operational reporting.
 
-## ShadowOps Data Pipeline
-
-**Operational Data Engineering Platform**
-
-Large-scale Python automation platform for processing, normalizing, deduplicating, routing, validating, and analyzing operational datasets.
-
-**Highlights**
+**Engineering Highlights**
 
 - Manifest-driven processing
-- SQLite indexing
-- Deduplication engine
+- Persistent SQLite indexing
+- SHA-1 record fingerprinting
+- High-volume deduplication
 - Workflow automation
 - Operational analytics
-- High-volume data processing
+- Recovery and validation workflows
 
-Repository
-
-https://github.com/shadowopslife-commits/shadowops-data-pipeline
+**[View ShadowOps Data Pipeline](https://github.com/shadowopslife-commits/shadowops-data-pipeline)**
 
 ---
 
-## Python Forensics Toolkit
+## 🟢 Python Forensics Toolkit
 
-**Operational Data Integrity Platform**
+### Operational Data Integrity Platform
 
-Python forensic comparison framework designed to validate data integrity, compare operational datasets, identify redundancy, and generate repeatable investigative reports.
+A Python forensic analysis platform engineered to compare large operational datasets, validate record integrity, identify redundancy, investigate discrepancies, and generate repeatable evidence-based reporting.
 
-**Highlights**
+**Engineering Highlights**
 
-- SQLite forensic indexing
+- Persistent SQLite forensic indexing
 - Record fingerprinting
-- Data validation
-- Operational reporting
-- Redundancy analysis
+- Large-scale dataset comparison
+- Integrity validation
+- Discrepancy investigation
 - Evidence-based workflows
+- Automated reporting
 
-Repository
-
-https://github.com/shadowopslife-commits/python-forensics-toolkit
+**[View Python Forensics Toolkit](https://github.com/shadowopslife-commits/python-forensics-toolkit)**
 
 ---
 
-## Lead Database Automation
+## 🟣 Lead Database Automation
 
-**Operational Workflow Automation Platform**
+### Operational Workflow Automation Platform
 
-Collection of workflow automation modules for routing, validating, recovering, classifying, and organizing very large operational databases.
+A modular Python automation platform engineered to process, validate, classify, route, recover, and analyze large operational lead databases.
 
-**Highlights**
+**Engineering Highlights**
 
-- State routing
-- Geographic classification
-- ZIP validation
+- Automated validation
+- State-aware routing
+- Record classification
+- Business-rule automation
 - Recovery workflows
 - Operational analytics
-- Process automation
+- Structured reporting
 
-Repository
+**[View Lead Database Automation](https://github.com/shadowopslife-commits/lead-database-automation)**
 
-https://github.com/shadowopslife-commits/lead-database-automation
+---
+
+# Engineering Capabilities
+
+### Systems Architecture
+Designing modular operational platforms around real-world workflows, constraints, dependencies, and business requirements.
+
+### Workflow Automation
+Replacing repetitive manual processes with deterministic, repeatable automation.
+
+### Data Engineering
+Processing, validating, indexing, transforming, and analyzing large operational datasets.
+
+### Operational Software Engineering
+Building software around how organizations actually operate rather than forcing operations around software.
+
+### Operational Analytics
+Turning processing results and operational data into measurable decision support.
+
+### AI-Assisted Development
+Using AI throughout architecture, development, debugging, documentation, analysis, and implementation while maintaining human engineering oversight.
+
+---
+
+# Technology
+
+**Languages**
+
+Python • SQL • HTML • CSS • JavaScript
+
+**Data**
+
+SQLite • CSV • Data Processing • Persistent Indexing • Record Fingerprinting
+
+**Engineering**
+
+Systems Architecture • Workflow Engineering • Automation • Data Validation • Operational Analytics • Technical Documentation
+
+**AI**
+
+AI-Assisted Software Engineering • AI Workflow Integration • Automation Architecture • Human-in-the-Loop Development
 
 ---
 
 # Engineering Philosophy
 
-Every operational problem is ultimately a systems problem.
+> **Software should improve operations, not create more work.**
 
-My approach is to understand the workflow first, identify bottlenecks, engineer repeatable processes, and then build automation that improves reliability, scalability, and long-term maintainability.
+Every system begins with understanding the operational workflow.
 
-Python is one implementation tool.
+From there, I identify bottlenecks, failure points, repetitive processes, and opportunities for automation before designing the technical solution.
 
-Systems thinking is the discipline.
+The objective is not simply to write software.
 
----
-
-# Technical Stack
-
-### Languages
-
-- Python
-- SQL
-- Markdown
-
-### Data
-
-- SQLite
-- CSV
-- Large-scale data processing
-
-### Engineering
-
-- Workflow Automation
-- Systems Architecture
-- Operational Analytics
-- Technical Documentation
-- Process Optimization
-
-### AI
-
-- AI-Assisted Development
-- Prompt Engineering
-- Workflow Design
-- Automation Strategy
+The objective is to engineer systems that improve reliability, scalability, visibility, and long-term operational performance.
 
 ---
 
-# Current Focus
+# Available For
 
-Building operational software platforms that combine systems architecture, automation, AI-assisted development, and workflow engineering to solve complex business problems.
-
-Current areas of development include:
-
-- Operational Software Platforms
-- Workflow Automation
-- AI Engineering
-- Business Systems
-- Data Engineering
-- SaaS Architecture
+- Systems architecture and technical consulting
+- Python automation
+- Workflow engineering
+- Data processing and pipeline development
+- Database automation
+- Operational software development
+- AI workflow implementation
+- Architecture and workflow reviews
 
 ---
 
 # Connect
 
-📍 La Habra Heights, California
+**Patrick Estrada**
 
-📧 patrick.estrada@hotmail.com
+Systems Architect | Operational Software Engineer
 
-🔗 LinkedIn
+📍 California
 
-https://linkedin.com/in/patrickestradaops
+📧 [patrick.estrada@hotmail.com](mailto:patrick.estrada@hotmail.com)
+
+🔗 [LinkedIn](https://linkedin.com/in/patrickestradaops)
+
+💻 [Engineering Portfolio](https://github.com/shadowopslife-commits/portfolio)
 
 ---
 
-Open to consulting, contract, and project-based opportunities involving systems architecture, workflow automation, operational software, Python engineering, and AI-assisted development.
+**Available for consulting, contract, and project-based engineering engagements.**
